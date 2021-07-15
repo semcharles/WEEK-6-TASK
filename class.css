@@ -1,0 +1,55 @@
+.skills{
+    justify-content: right;
+}
+.profile{
+    size: 50%;
+    margin-top: 5ch;
+    width: 400px;
+    height: 300px;
+    align-content: flex-start;
+    border-radius: 200px;
+}
+.name{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 5em;
+    color: black;
+}
+.body{
+    line-height: 26px;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    color: #777;
+    background-color:whitesmoke;
+}
+
+.footer{
+    margin-top: 20ch;
+    margin-bottom: 10ch;
+    margin-left: 5ch;
+}
+.icons{
+    border-radius: 10ch;
+}
+.salutation{
+    text-align: center;
+}
+.img-fluid{
+    border-top: 5ch;
+    align-content: center;
+    justify-content: center;
+    width: 500px;
+    border-radius: 250px;
+    float: right;
+    
+}
+#Work{
+    font-weight: bold;
+    color: red;
+
+}
+#click{
+    color: royalblue;
+}
